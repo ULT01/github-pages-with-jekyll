@@ -1,0 +1,3 @@
+layout: post
+
+title: "Austin Matthews has signed a 5 year contract extension with the Toronto Maple Leafs."
