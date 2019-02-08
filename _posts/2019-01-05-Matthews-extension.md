@@ -1,3 +1,9 @@
-layout: post
+---
+title: "Matthews Extension"
 
-title: "Austin Matthews has signed a 5 year contract extension with the Toronto Maple Leafs."
+Date: 2019/02/07
+
+---
+
+
+Austin Matthews has signed a 5 year contract extension with the Toronto Maple Leafs.
