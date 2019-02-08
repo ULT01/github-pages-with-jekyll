@@ -1,8 +1,7 @@
 ---
 title: "Matthews Extension"
 
-Date: 2019-02-07
-
+date: 2019-02-07
 ---
 
 layout: post
